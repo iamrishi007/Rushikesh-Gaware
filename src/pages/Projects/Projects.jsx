@@ -8,8 +8,8 @@ const projects = [
     title: "Myntra Clone",
     description:
       "A full-stack clone of the Myntra E-commerce website built using the MERN stack. It replicates essential e-commerce features with a modern, responsive design.",
-    src: "/src/assets/images/myntra.png",
-    link: "/src/assets/images/myntra.png",
+    src: "https://raw.githubusercontent.com/iamrishi007/myntra/refs/heads/main/client_side/public/Screenshot%202025-01-16%20190112.png",
+    link: "https://raw.githubusercontent.com/iamrishi007/myntra/refs/heads/main/client_side/public/Screenshot%202025-01-16%20190112.png",
     color: "#E91E63",
     githubLink: "https://github.com/iamrishi007/myntra",
     liveLink: "https://venerable-lamington-38eaad.netlify.app/",
@@ -28,7 +28,7 @@ const projects = [
     title: "Gemini AI Chatbot",
     description:
       "An intelligent chatbot built with the MERN stack and Gemini API, providing users with real-world AI-driven responses and a seamless interactive experience.",
-    src: "https://raw.githubusercontent.com/iamrishi007/fitbit-project/refs/heads/main/client/public/fitbit.png", // replace with your project thumbnail
+    src: "https://raw.githubusercontent.com/iamrishi007/fitbit-project/refs/heads/main/client/public/fitbit.png", 
     link: "https://github.com/iamrishi007/Gemini-AI-Chatbot/blob/main/client/src/assets/Screenshot%202025-01-25%20191422.png?raw=true",
     color: "#00C49F", // teal/green theme
     githubLink: "https://github.com/iamrishi007/Gemini-AI-Chatbot",
