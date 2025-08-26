@@ -71,8 +71,8 @@ const projects = [
     title: "Hack Society – DSA Practice Platform",
     description:
       "A full-stack web application designed for practicing Data Structures and Algorithms (DSA) problems with secure authentication, categorized question sets, and an integrated code editor for solving problems in-browser.",
-    src: "/src/assets/images/hack society.png", 
-    link: "/src/assets/images/hack society.png", 
+    src: "https://raw.githubusercontent.com/iamrishi007/Hack_Society_Project/refs/heads/main/hack%20society.png", 
+    link: "https://raw.githubusercontent.com/iamrishi007/Hack_Society_Project/refs/heads/main/hack%20society.png", 
     color: "#ff9800",
     githubLink: "https://github.com/iamrishi007/Hack_Society_Project",
     liveLink: "https://hacksociety.netlify.app/",
@@ -92,8 +92,8 @@ const projects = [
     title: "Zappos Clone",
     description:
       "A full-stack MERN E-commerce application inspired by Zappos. Features secure user authentication, product listing with filtering & sorting, add-to-cart functionality, and a responsive UI built with Chakra UI.",
-    src: "/src/assets/images/zoppose.png", 
-    link: "/src/assets/images/zoppose.png", 
+    src: "https://raw.githubusercontent.com/iamrishi007/zappos-project/main/zoppose.png", 
+    link: "https://raw.githubusercontent.com/iamrishi007/zappos-project/main/zoppose.png", 
     color: "#1e90ff", 
     githubLink: "https://github.com/iamrishi007/Zappos_Clone",
     liveLink: "https://zopposclone.netlify.app/",
