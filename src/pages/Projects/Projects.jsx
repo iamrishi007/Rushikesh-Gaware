@@ -8,7 +8,7 @@ const projects = [
     title: "Myntra Clone",
     description:
       "A full-stack clone of the Myntra E-commerce website built using the MERN stack. It replicates essential e-commerce features with a modern, responsive design.",
-    src: "myntra.jpg",
+    src: "/src/assets/images/myntra.png",
     link: "/src/assets/images/myntra.png",
     color: "#E91E63",
     githubLink: "https://github.com/iamrishi007/myntra",
@@ -47,9 +47,9 @@ const projects = [
     title: "Fitbit E-commerce Website Clone",
     description:
       "A full-stack e-commerce website inspired by Fitbit’s platform. Includes user authentication, JWT-based login, secure password hashing, and a responsive UI built with React and Chakra UI.",
-    src: "fitbit.jpg", // replace with your project image file
+    src: "fitbit.jpg", 
     link: "https://raw.githubusercontent.com/iamrishi007/fitbit-project/refs/heads/main/client/public/fitbit.png",
-    color: "#4CAF50", // Fitbit green theme
+    color: "#4CAF50",
     githubLink: "https://github.com/iamrishi007/fitbit-project",
     liveLink: "https://myfitbit.netlify.app/",
     skills: [
@@ -71,9 +71,9 @@ const projects = [
     title: "Hack Society – DSA Practice Platform",
     description:
       "A full-stack web application designed for practicing Data Structures and Algorithms (DSA) problems with secure authentication, categorized question sets, and an integrated code editor for solving problems in-browser.",
-    src: "hack.jpg", // you can replace with your actual project thumbnail
-    link: "/src/assets/images/hack society.png", // put your project screenshot in assets
-    color: "#ff9800", // orange accent for DSA vibe
+    src: "/src/assets/images/hack society.png", 
+    link: "/src/assets/images/hack society.png", 
+    color: "#ff9800",
     githubLink: "https://github.com/iamrishi007/Hack_Society_Project",
     liveLink: "https://hacksociety.netlify.app/",
     skills: [
@@ -92,9 +92,9 @@ const projects = [
     title: "Zappos Clone",
     description:
       "A full-stack MERN E-commerce application inspired by Zappos. Features secure user authentication, product listing with filtering & sorting, add-to-cart functionality, and a responsive UI built with Chakra UI.",
-    src: "zappos.png", // replace with your actual project thumbnail
-    link: "/src/assets/images/zoppose.png", // project screenshot in assets
-    color: "#1e90ff", // blue accent reflecting e-commerce theme
+    src: "/src/assets/images/zoppose.png", 
+    link: "/src/assets/images/zoppose.png", 
+    color: "#1e90ff", 
     githubLink: "https://github.com/iamrishi007/Zappos_Clone",
     liveLink: "https://zopposclone.netlify.app/",
     skills: [
